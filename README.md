@@ -30,7 +30,6 @@ I use various resources to improve my Python skills:
 If you have any questions or just want to chat, feel free to reach out!
 
 - 📫 Discord: user: schmatzwurm ; server: https://discord.gg/7hw6F25GDE
-- 🐦 Twitter: @yourTwitterHandle
 - 📷 Twitch: schmatzwurm
 
 Thank you for stopping by! I look forward to your feedback and support on my learning journey!
